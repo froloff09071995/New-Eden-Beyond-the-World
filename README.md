@@ -102,6 +102,37 @@
 - [Глава 27. Красное в синем](prose/book1/27_krasnoe_v_sinem.md)
 - [Глава 28. Объект «Искра»](prose/book1/28_obekt_iskra.md)
 
+## Проза. Книга вторая «Ось»
+
+- [Глава 1. Сорок секунд](prose/book2/01_sorok_sekund.md)
+- [Глава 2. Сигнал](prose/book2/02_signal.md)
+- [Глава 3. Пустое место](prose/book2/03_pustoe_mesto.md)
+- [Глава 4. Якорь](prose/book2/04_yakor.md)
+- [Глава 5. Первый вызов](prose/book2/05_pervyy_vyzov.md)
+- [Глава 6. Внешнее кольцо](prose/book2/06_vneshnee_koltso.md)
+- [Глава 7. Список](prose/book2/07_spisok.md)
+- [Глава 8. Признание](prose/book2/08_priznanie.md)
+- [Глава 9. «Я бы сделал это снова»](prose/book2/09_ya_by_sdelal_snova.md)
+- [Глава 10. Посев](prose/book2/10_posev.md)
+- [Глава 11. За лесом](prose/book2/11_za_lesom.md)
+- [Глава 12. Остов](prose/book2/12_ostov.md)
+- [Глава 13. Колыбель](prose/book2/13_kolybel.md)
+- [Глава 14. Память](prose/book2/14_pamyat.md)
+- [Глава 15. Образец Ноль](prose/book2/15_obrazets_nol.md)
+- [Глава 16. Белая](prose/book2/16_belaya.md)
+- [Глава 17. Пустой номер](prose/book2/17_pustoy_nomer.md)
+- [Глава 18. Фитиль](prose/book2/18_fitil.md)
+- [Глава 19. Образец](prose/book2/19_obrazets.md)
+- [Глава 20. Чутьё Владык](prose/book2/20_chutyo_vladyk.md)
+- [Глава 21. Приманка](prose/book2/21_primanka.md)
+- [Глава 22. Освобождение](prose/book2/22_osvobozhdenie.md)
+- [Глава 23. Иней на стенах](prose/book2/23_iney_na_stenakh.md)
+- [Глава 24. Тормоз](prose/book2/24_tormoz.md)
+- [Глава 25. Двое в Сплаве](prose/book2/25_dvoe_v_splave.md)
+- [Глава 26. Ядро](prose/book2/26_yadro.md)
+- [Глава 27. Голоса](prose/book2/27_golosa.md)
+- [Глава 28. «Не открывайте»](prose/book2/28_ne_otkryvayte.md)
+
 ## Заметки
 
 - [Принятые решения](notes/decisions.md)
@@ -111,4 +142,4 @@
 
 ## Статус
 
-Синопсисы всех четырёх книг написаны до финала (по 28 глав). Сага завершена на уровне синопсиса. Проза первой книги «Искра» написана полностью: пролог, 28 глав и три интерлюдии. Следующий шаг — проза второй книги.
+Синопсисы всех четырёх книг написаны до финала (по 28 глав). Сага завершена на уровне синопсиса. Проза первой книги «Искра» написана полностью: пролог, 28 глав и три интерлюдии. Проза второй книги «Ось» написана полностью (28 глав). Следующий шаг — проза третьей книги.
