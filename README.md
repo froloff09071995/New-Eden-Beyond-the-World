@@ -67,12 +67,48 @@
 - [Часть V. Чёрное солнце](story/book4/05_chernoe_solntse.md)
 - [Часть VI. Между мирами](story/book4/06_mezhdu_mirami.md)
 
+## Проза. Книга первая «Искра»
+
+- [Пролог. Искра](prose/book1/00_prologue.md)
+- [Глава 1. Сирены](prose/book1/01_sireny.md)
+- [Глава 2. Очередь](prose/book1/02_ochered.md)
+- [Глава 3. Двадцать минут](prose/book1/03_dvadtsat_minut.md)
+- [Глава 4. Сыч](prose/book1/04_sych.md)
+- [Глава 5. Эдемка](prose/book1/05_edemka.md)
+- [Глава 6. Приют](prose/book1/06_priyut.md)
+- [Интерлюдия. Капсула](prose/book1/06a_interlude_gleb.md)
+- [Глава 7. Ампулы](prose/book1/07_ampuly.md)
+- [Глава 8. Подпись](prose/book1/08_podpis.md)
+- [Глава 9. Письмо](prose/book1/09_pismo.md)
+- [Глава 10. Отбор](prose/book1/10_otbor.md)
+- [Глава 11. Инъекция](prose/book1/11_inektsiya.md)
+- [Глава 12. Тридцать дней](prose/book1/12_tridtsat_dney.md)
+- [Глава 13. Пустые](prose/book1/13_pustye.md)
+- [Глава 14. Сыч](prose/book1/14_sych.md)
+- [Интерлюдия. Девяносто шесть](prose/book1/14a_interlude_yuna.md)
+- [Глава 15. Соль](prose/book1/15_sol.md)
+- [Глава 16. Предел](prose/book1/16_predel.md)
+- [Глава 17. Стеклянный лес](prose/book1/17_steklyanny_les.md)
+- [Глава 18. Двое](prose/book1/18_dvoe.md)
+- [Глава 19. Выпуск](prose/book1/19_vypusk.md)
+- [Глава 20. Врата](prose/book1/20_vrata.md)
+- [Глава 21. Сыч молчит](prose/book1/21_sych_molchit.md)
+- [Глава 22. Тревога](prose/book1/22_trevoga.md)
+- [Интерлюдия. Генерал](prose/book1/22a_interlude_korsakov.md)
+- [Глава 23. Кратер Искры](prose/book1/23_krater_iskry.md)
+- [Глава 24. Волна](prose/book1/24_volna.md)
+- [Глава 25. Багрянец](prose/book1/25_bagryanets.md)
+- [Глава 26. Котёл](prose/book1/26_kotyol.md)
+- [Глава 27. Красное в синем](prose/book1/27_krasnoe_v_sinem.md)
+- [Глава 28. Объект «Искра»](prose/book1/28_obekt_iskra.md)
+
 ## Заметки
 
 - [Принятые решения](notes/decisions.md)
 - [Открытые вопросы](notes/open_questions.md)
 - [План саги](notes/saga_plan.md)
+- [Правила прозы](notes/style_guide.md)
 
 ## Статус
 
-Синопсисы всех четырёх книг написаны до финала (по 28 глав). Сага завершена на уровне синопсиса. Следующий возможный шаг — художественный текст глав.
+Синопсисы всех четырёх книг написаны до финала (по 28 глав). Сага завершена на уровне синопсиса. Проза первой книги «Искра» написана полностью: пролог, 28 глав и три интерлюдии. Следующий шаг — проза второй книги.
