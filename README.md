@@ -164,6 +164,37 @@
 - [Глава 27. Новый Эдем](prose/book3/27_novy_edem.md)
 - [Глава 28. Пора домой](prose/book3/28_pora_domoy.md)
 
+## Проза. Книга четвёртая «Возвращение»
+
+- [Глава 1. По ту сторону](prose/book4/01_po_tu_storonu.md)
+- [Глава 2. Голод](prose/book4/02_golod.md)
+- [Глава 3. Земной якорь](prose/book4/03_zemnoy_yakor.md)
+- [Глава 4. Варя](prose/book4/04_varya.md)
+- [Глава 5. Слышащая](prose/book4/05_slyshashchaya.md)
+- [Глава 6. Очередь наоборот](prose/book4/06_ochered_naoborot.md)
+- [Глава 7. Пепел](prose/book4/07_pepel.md)
+- [Глава 8. Гаснущие](prose/book4/08_gasnushchie.md)
+- [Глава 9. Последняя партия](prose/book4/09_poslednyaya_partiya.md)
+- [Глава 10. Засов](prose/book4/10_zasov.md)
+- [Глава 11. Сигнал с севера](prose/book4/11_signal_s_severa.md)
+- [Глава 12. Фогт](prose/book4/12_fogt.md)
+- [Глава 13. Требование](prose/book4/13_trebovanie.md)
+- [Глава 14. Захват](prose/book4/14_zakhvat.md)
+- [Глава 15. Пепел у ворот](prose/book4/15_pepel_u_vorot.md)
+- [Глава 16. Путь на юг](prose/book4/16_put_na_yug.md)
+- [Глава 17. Голоса оставленных](prose/book4/17_golosa_ostavlennykh.md)
+- [Глава 18. Мёртвый город](prose/book4/18_myortvyy_gorod.md)
+- [Глава 19. Последняя ночь](prose/book4/19_poslednyaya_noch.md)
+- [Глава 20. Подъём](prose/book4/20_podyom.md)
+- [Глава 21. Все вместе](prose/book4/21_vse_vmeste.md)
+- [Глава 22. Тишина](prose/book4/22_tishina.md)
+- [Глава 23. Внутрь](prose/book4/23_vnutr.md)
+- [Глава 24. Память](prose/book4/24_pamyat.md)
+- [Глава 25. Последняя искра](prose/book4/25_poslednyaya_iskra.md)
+- [Глава 26. Обычный человек](prose/book4/26_obychnyy_chelovek.md)
+- [Глава 27. Мемориал](prose/book4/27_memorial.md)
+- [Глава 28. Арка](prose/book4/28_arka.md)
+
 ## Заметки
 
 - [Принятые решения](notes/decisions.md)
@@ -173,4 +204,4 @@
 
 ## Статус
 
-Синопсисы всех четырёх книг написаны до финала (по 28 глав). Сага завершена на уровне синопсиса. Проза первой книги «Искра» написана полностью: пролог, 28 глав и три интерлюдии. Проза второй книги «Ось» написана полностью (28 глав). Проза третьей книги «Праматерь» написана полностью (28 глав). Следующий шаг — проза четвёртой книги, финала саги.
+**Сага завершена.** Синопсисы и проза всех четырёх книг написаны до финала: «Искра» (пролог, 28 глав, три интерлюдии), «Ось» (28 глав), «Праматерь» (28 глав), «Возвращение» (28 глав).
